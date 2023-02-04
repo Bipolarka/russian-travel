@@ -1,11 +1,8 @@
-.intro__list {
+.intro__value {
   font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 12px;
   line-height: 18px;
   color: #ffffff;
-  list-style: none;
-  padding: 0;
-  margin: 33px 0 0;
 }
