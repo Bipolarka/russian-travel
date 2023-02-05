@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: repeat(4, minmax(min-content, 284px));
   max-width: 1184px;
-  max-height: 671px;
   column-gap: 16px;
   row-gap: 16px;
   margin: 0 48px 92px;
@@ -14,7 +13,6 @@
     row-gap: 14px;
     column-gap: 14px;
     max-width: 928px;
-    max-height: 3292px;
   }
 }
 
@@ -22,7 +20,6 @@
   .photo-grid {
     grid-template-columns: repeat(2, minmax(min-content, 352px));
     max-width: 720px;
-    max-height: 2808px;
     margin: 88px auto 88px;
     row-gap: 16px;
     column-gap: 16px;
@@ -33,7 +30,6 @@
   .photo-grid {
     grid-template-columns: repeat(1, minmax(min-content, 288px));
     max-width: 288px;
-    max-height: 2724px;
     margin: 64px 16px 64px;
     row-gap: 12px;
   }
